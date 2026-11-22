@@ -1,0 +1,11 @@
+attack_cat,train dup %,test dup %,train unique rows,test rows also in train %
+Normal,7.3,7.6,51890,4.0
+Generic,89.5,80.6,4181,9.1
+Exploits,40.6,31.6,19844,16.2
+Fuzzers,11.2,20.2,16150,4.3
+DoS,69.0,58.0,3806,49.0
+Reconnaissance,28.3,22.7,7522,32.6
+Analysis,20.3,34.1,1594,18.5
+Backdoor,12.1,40.7,1535,0.7
+Shellcode,3.7,0.0,1091,3.4
+Worms,2.3,0.0,127,0.0
