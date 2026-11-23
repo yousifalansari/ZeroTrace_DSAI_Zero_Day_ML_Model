@@ -17,9 +17,9 @@ To replace or restore the dataset, download the official UNSW-NB15 files from **
 
 Three large raw corpus files were removed from the working tree to keep the repository smaller:
 
-- `UNSW-NB15_DATA/UNSW-NB15_1.csv` (about 161 MB) — **[insert file download link here]**
-- `UNSW-NB15_DATA/UNSW-NB15_2.csv` (about 158 MB) — **[insert file download link here]**
-- `UNSW-NB15_DATA/UNSW-NB15_3.csv` (about 147 MB) — **[insert file download link here]**
+- `UNSW-NB15_DATA/UNSW-NB15_1.csv` (about 161 MB) — [https://unsw-my.sharepoint.com/:x:/r/personal/z5025758_ad_unsw_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B4C4B6D3A-D264-487B-B677-DFAC2175F783%7D&file=UNSW-NB15_1.csv&action=default&mobileredirect=true]
+- `UNSW-NB15_DATA/UNSW-NB15_2.csv` (about 158 MB) — [https://unsw-my.sharepoint.com/:x:/r/personal/z5025758_ad_unsw_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7BCB831326-E652-459D-8033-F773D42F60EC%7D&file=UNSW-NB15_2.csv&action=default&mobileredirect=true]
+- `UNSW-NB15_DATA/UNSW-NB15_3.csv` (about 147 MB) — [https://unsw-my.sharepoint.com/:x:/r/personal/z5025758_ad_unsw_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B1DD6A5D4-AB33-4FE6-838F-FE16125F744F%7D&file=UNSW-NB15_3.csv&action=default&mobileredirect=true]
 
 These are raw corpus parts, not the two partition files used by the reported experiments. They are not needed to reproduce the report if `data/train.csv` and `data/test.csv` are present. If you need the raw parts for separate analysis, download them from the source links above and place them in `UNSW-NB15_DATA/`; do not use them in place of the required files under `data/`.
 
