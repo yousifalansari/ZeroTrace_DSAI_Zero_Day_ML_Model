@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Large UNSW-NB15 raw corpus parts are documented in README.md, not committed.
+UNSW-NB15_DATA/UNSW-NB15_1.csv
+UNSW-NB15_DATA/UNSW-NB15_2.csv
+UNSW-NB15_DATA/UNSW-NB15_3.csv

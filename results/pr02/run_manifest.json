@@ -1,0 +1,33 @@
+{
+  "train_sha256": "bec7dd5ec88dc2a0ccc7a07879d338395ed7421750f675fd0339e07dfe0648fa",
+  "test_sha256": "734fe6642edf758f7c94d7d9149426b49d202fe8e7bf0bef47392489c3c0a559",
+  "train_shape": [
+    175341,
+    45
+  ],
+  "test_shape": [
+    82332,
+    45
+  ],
+  "input_rows": 175341,
+  "after_exact_duplicate_removal": 107740,
+  "conflicting_label_rows_removed": 458,
+  "final_rows": 107282,
+  "seed": 42,
+  "repeat_seeds": [
+    7,
+    21
+  ],
+  "cv_folds": 3,
+  "models": [
+    "Logistic Regression",
+    "Random Forest",
+    "XGBoost"
+  ],
+  "threshold": 0.5,
+  "python": "3.12.14",
+  "pandas": "3.1.1",
+  "numpy": "2.5.5",
+  "scikit_learn": "1.9.1",
+  "xgboost": "3.4.1"
+}
